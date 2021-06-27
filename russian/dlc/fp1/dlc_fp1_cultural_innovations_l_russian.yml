@@ -1,1 +1,16 @@
+﻿l_russian:
+ ####################
+ # Culture-Specific	#
+ ####################
+ # Military
+ innovation_varangian_adventurers:0 "Авантюристы диких людей"
+ innovation_varangian_adventurers_desc:0 "Чем мы обязаны этим землям, на которых живем? Ничего! Сердце королевства-его народ, и разве мы не заслуживаем лучшей земли, величайших сокровищ, лучших дворцов? Иметь их так же просто, как #EMP taking#! их!"
+ unlock_varangian_adventurer_cb:0 "Открывает [varangian_adventure|E] [casus_belli|E]" # в течение [tribal|E] [era|E]"
 
+ ####################
+ # Regional			#
+ ####################
+ # Civic
+ innovation_all_things:0 "Всеобщее"
+ innovation_all_things_desc:0 "Среди нашего народа существует сильная традиция публичных собраний всех свободных, наделенных полномочиями взрослых, где любой может высказать свои претензии правителю. Конечно, для тех, кто высоко стоит в глазах обывателей, может быть сила в том, чтобы поколебать толпу..."
+ unlocks_authority_cooldown_breaking:0 "[characters|E] может поколебать [crown_authority|E] и [tribal_authority|E] откат при высоком [prestige|E] цены"
